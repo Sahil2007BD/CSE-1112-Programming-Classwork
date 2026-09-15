@@ -9,7 +9,8 @@ int main() {
     float average = (float) sum / 2.0;
     printf("Average of %d and %d is %.2f\n", a, b, average);
 
-        //sum and average of two integers
+
+        // This program prompts the user to input two integers. It then reads the input using scanf and calculates their sum and average. Finally, it prints the entered integers, their sum, and their average to the console.
 
     return 0;
 }
